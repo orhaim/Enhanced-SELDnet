@@ -5,8 +5,7 @@ Sharath Adavanne, Archontis Politis, Joonas Nikunen, and Tuomas Virtanen, "Sound
 
 Sharath Adavanne, Archontis Politis and Tuomas Virtanen, "Localization, detection, and tracking of multiple moving sources using convolutional recurrent neural network" submitted in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA 2019)
 
-Refer to the original paper Git for further inormation: https://github.com/sharathadavanne/seld-net 
-
+Refer to the original paper Git for further inormation and to download any released datasets: https://github.com/sharathadavanne/seld-net 
 
 # SELDnet-Enhanced
 A project of reproduction and enhancement of a DNN architecture, from the course Deep Learning by Dr. Raja Giris, TAU
