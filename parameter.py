@@ -11,9 +11,9 @@ def get_params(argv):
         azi_only=False,      # Estimate Azimuth only
 
         # Dataset loading parameters
-        dataset='ansim',    # Dataset to use: ansim, resim, cansim, cresim, real, mansim or mreal
-        overlap=3,         # maximum number of overlapping sound events [1, 2, 3]
-        split=5,           # Cross validation split [1, 2, 3]
+        dataset='resim',    # Dataset to use: ansim, resim, cansim, cresim, real, mansim or mreal
+        overlap=1,         # maximum number of overlapping sound events [1, 2, 3]
+        split=2,           # Cross validation split [1, 2, 3]
         db=30,             # SNR of sound events.
         nfft=512,          # FFT/window length size
 

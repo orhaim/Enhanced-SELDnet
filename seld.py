@@ -137,7 +137,7 @@ def main(argv):
     model = keras_model.get_model(data_in=data_in, data_out=data_out, dropout_rate=params['dropout_rate'],
                                   nb_cnn2d_filt=params['nb_cnn2d_filt'], pool_size=params['pool_size'],
                                   rnn_size=params['rnn_size'], fnn_size=params['fnn_size'],
-                                  classification_mode=params['mode'], weights=params['loss_weights'], loader=False)
+                                  classification_mode=params['mode'], weights=params['loss_weights'], loader=False, loader2=False) # Change loader to True to enable transfer learning, Change loader2 to True to enable transfer learning with different labels
     best_metric = 99999
     conf_mat = None
     best_conf_mat = None
