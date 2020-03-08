@@ -15,3 +15,7 @@ This project was conducted by Or Haim and Aviv Shalem from Tel-Aviv university, 
 This enhancement was done by using a Self-Attention mechanism, as well as a exploiting the Transfer-Learning concept. Furthermore, datasets from the original paper were simply shuffeled to allow a better generelization for further predictions on any unseen data. 
 
 The results show an improvement in all evaluation metrices, and with better visualization method gives the user the ability to easily understand and evaluate the results.
+
+Eventually, the final architecutre is presnted below:
+
+![E-SELDnet Final Architecture](archi.jpg)
