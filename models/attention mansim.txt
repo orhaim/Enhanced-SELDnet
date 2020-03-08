@@ -1,0 +1,117 @@
+epoch_cnt: 0, time: 305.13s, tr_loss: 2.70, val_loss: 2.69, F1_overall: 0.00, ER_overall: 1.00, doa_error_gt: 0.98, doa_error_pred: 0.00, good_pks_ratio:0.10, error_metric: 0.81, best_error_metric: 0.81, best_epoch : 0
+epoch_cnt: 1, time: 297.55s, tr_loss: 2.43, val_loss: 2.31, F1_overall: 0.26, ER_overall: 0.85, doa_error_gt: 0.87, doa_error_pred: 0.54, good_pks_ratio:0.16, error_metric: 0.68, best_error_metric: 0.68, best_epoch : 1
+epoch_cnt: 2, time: 300.63s, tr_loss: 2.18, val_loss: 2.13, F1_overall: 0.46, ER_overall: 0.68, doa_error_gt: 0.82, doa_error_pred: 0.56, good_pks_ratio:0.26, error_metric: 0.56, best_error_metric: 0.56, best_epoch : 2
+epoch_cnt: 3, time: 298.92s, tr_loss: 2.00, val_loss: 1.99, F1_overall: 0.53, ER_overall: 0.60, doa_error_gt: 0.77, doa_error_pred: 0.52, good_pks_ratio:0.33, error_metric: 0.50, best_error_metric: 0.50, best_epoch : 3
+epoch_cnt: 4, time: 300.70s, tr_loss: 1.78, val_loss: 1.82, F1_overall: 0.63, ER_overall: 0.50, doa_error_gt: 0.71, doa_error_pred: 0.49, good_pks_ratio:0.41, error_metric: 0.42, best_error_metric: 0.42, best_epoch : 4
+epoch_cnt: 5, time: 299.21s, tr_loss: 1.64, val_loss: 1.70, F1_overall: 0.68, ER_overall: 0.44, doa_error_gt: 0.68, doa_error_pred: 0.48, good_pks_ratio:0.47, error_metric: 0.38, best_error_metric: 0.38, best_epoch : 5
+epoch_cnt: 6, time: 299.62s, tr_loss: 1.51, val_loss: 1.60, F1_overall: 0.72, ER_overall: 0.40, doa_error_gt: 0.64, doa_error_pred: 0.46, good_pks_ratio:0.50, error_metric: 0.35, best_error_metric: 0.35, best_epoch : 6
+epoch_cnt: 7, time: 299.62s, tr_loss: 1.41, val_loss: 1.56, F1_overall: 0.73, ER_overall: 0.39, doa_error_gt: 0.63, doa_error_pred: 0.47, good_pks_ratio:0.53, error_metric: 0.34, best_error_metric: 0.34, best_epoch : 7
+epoch_cnt: 8, time: 301.78s, tr_loss: 1.31, val_loss: 1.46, F1_overall: 0.77, ER_overall: 0.35, doa_error_gt: 0.60, doa_error_pred: 0.45, good_pks_ratio:0.55, error_metric: 0.31, best_error_metric: 0.31, best_epoch : 8
+epoch_cnt: 9, time: 301.86s, tr_loss: 1.24, val_loss: 1.44, F1_overall: 0.77, ER_overall: 0.35, doa_error_gt: 0.58, doa_error_pred: 0.44, good_pks_ratio:0.57, error_metric: 0.30, best_error_metric: 0.30, best_epoch : 9
+epoch_cnt: 10, time: 306.45s, tr_loss: 1.16, val_loss: 1.40, F1_overall: 0.78, ER_overall: 0.34, doa_error_gt: 0.58, doa_error_pred: 0.45, good_pks_ratio:0.58, error_metric: 0.29, best_error_metric: 0.29, best_epoch : 10
+epoch_cnt: 11, time: 305.83s, tr_loss: 1.11, val_loss: 1.38, F1_overall: 0.78, ER_overall: 0.34, doa_error_gt: 0.55, doa_error_pred: 0.43, good_pks_ratio:0.60, error_metric: 0.28, best_error_metric: 0.28, best_epoch : 11
+epoch_cnt: 12, time: 306.59s, tr_loss: 1.07, val_loss: 1.38, F1_overall: 0.79, ER_overall: 0.33, doa_error_gt: 0.55, doa_error_pred: 0.43, good_pks_ratio:0.61, error_metric: 0.28, best_error_metric: 0.28, best_epoch : 12
+epoch_cnt: 13, time: 305.93s, tr_loss: 1.02, val_loss: 1.35, F1_overall: 0.80, ER_overall: 0.34, doa_error_gt: 0.54, doa_error_pred: 0.43, good_pks_ratio:0.61, error_metric: 0.28, best_error_metric: 0.28, best_epoch : 13
+epoch_cnt: 14, time: 305.89s, tr_loss: 0.98, val_loss: 1.30, F1_overall: 0.80, ER_overall: 0.33, doa_error_gt: 0.53, doa_error_pred: 0.42, good_pks_ratio:0.63, error_metric: 0.27, best_error_metric: 0.27, best_epoch : 14
+epoch_cnt: 15, time: 306.04s, tr_loss: 0.95, val_loss: 1.27, F1_overall: 0.81, ER_overall: 0.31, doa_error_gt: 0.52, doa_error_pred: 0.42, good_pks_ratio:0.63, error_metric: 0.26, best_error_metric: 0.26, best_epoch : 15
+epoch_cnt: 16, time: 305.86s, tr_loss: 0.93, val_loss: 1.25, F1_overall: 0.82, ER_overall: 0.29, doa_error_gt: 0.52, doa_error_pred: 0.41, good_pks_ratio:0.63, error_metric: 0.25, best_error_metric: 0.25, best_epoch : 16
+epoch_cnt: 17, time: 307.23s, tr_loss: 0.90, val_loss: 1.24, F1_overall: 0.81, ER_overall: 0.30, doa_error_gt: 0.51, doa_error_pred: 0.41, good_pks_ratio:0.63, error_metric: 0.26, best_error_metric: 0.25, best_epoch : 16
+epoch_cnt: 18, time: 305.85s, tr_loss: 0.88, val_loss: 1.29, F1_overall: 0.80, ER_overall: 0.32, doa_error_gt: 0.52, doa_error_pred: 0.42, good_pks_ratio:0.63, error_metric: 0.26, best_error_metric: 0.25, best_epoch : 16
+epoch_cnt: 19, time: 305.68s, tr_loss: 0.86, val_loss: 1.21, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.50, doa_error_pred: 0.40, good_pks_ratio:0.64, error_metric: 0.26, best_error_metric: 0.25, best_epoch : 16
+epoch_cnt: 20, time: 305.98s, tr_loss: 0.83, val_loss: 1.23, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.49, doa_error_pred: 0.41, good_pks_ratio:0.65, error_metric: 0.25, best_error_metric: 0.25, best_epoch : 20
+epoch_cnt: 21, time: 305.18s, tr_loss: 0.82, val_loss: 1.25, F1_overall: 0.81, ER_overall: 0.33, doa_error_gt: 0.50, doa_error_pred: 0.41, good_pks_ratio:0.64, error_metric: 0.26, best_error_metric: 0.25, best_epoch : 20
+epoch_cnt: 22, time: 306.03s, tr_loss: 0.80, val_loss: 1.21, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.49, doa_error_pred: 0.41, good_pks_ratio:0.64, error_metric: 0.25, best_error_metric: 0.25, best_epoch : 22
+epoch_cnt: 23, time: 306.93s, tr_loss: 0.78, val_loss: 1.17, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.49, doa_error_pred: 0.40, good_pks_ratio:0.65, error_metric: 0.24, best_error_metric: 0.24, best_epoch : 23
+epoch_cnt: 24, time: 306.30s, tr_loss: 0.76, val_loss: 1.21, F1_overall: 0.81, ER_overall: 0.33, doa_error_gt: 0.49, doa_error_pred: 0.40, good_pks_ratio:0.65, error_metric: 0.26, best_error_metric: 0.24, best_epoch : 23
+epoch_cnt: 25, time: 305.76s, tr_loss: 0.75, val_loss: 1.17, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.48, doa_error_pred: 0.39, good_pks_ratio:0.66, error_metric: 0.24, best_error_metric: 0.24, best_epoch : 23
+epoch_cnt: 26, time: 305.17s, tr_loss: 0.74, val_loss: 1.20, F1_overall: 0.81, ER_overall: 0.33, doa_error_gt: 0.48, doa_error_pred: 0.40, good_pks_ratio:0.65, error_metric: 0.25, best_error_metric: 0.24, best_epoch : 23
+epoch_cnt: 27, time: 305.50s, tr_loss: 0.73, val_loss: 1.19, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.48, doa_error_pred: 0.39, good_pks_ratio:0.66, error_metric: 0.25, best_error_metric: 0.24, best_epoch : 23
+epoch_cnt: 28, time: 305.59s, tr_loss: 0.72, val_loss: 1.16, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.24, best_epoch : 28
+epoch_cnt: 29, time: 304.16s, tr_loss: 0.70, val_loss: 1.15, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.24, best_epoch : 28
+epoch_cnt: 30, time: 305.79s, tr_loss: 0.69, val_loss: 1.18, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.48, doa_error_pred: 0.40, good_pks_ratio:0.67, error_metric: 0.25, best_error_metric: 0.24, best_epoch : 28
+epoch_cnt: 31, time: 305.76s, tr_loss: 0.68, val_loss: 1.17, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.48, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.24, best_epoch : 28
+epoch_cnt: 32, time: 305.41s, tr_loss: 0.69, val_loss: 1.17, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.24, best_epoch : 28
+epoch_cnt: 33, time: 301.27s, tr_loss: 0.67, val_loss: 1.14, F1_overall: 0.83, ER_overall: 0.29, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.68, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 34, time: 300.03s, tr_loss: 0.66, val_loss: 1.14, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.39, good_pks_ratio:0.68, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 35, time: 299.71s, tr_loss: 0.65, val_loss: 1.13, F1_overall: 0.83, ER_overall: 0.29, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 36, time: 300.26s, tr_loss: 0.65, val_loss: 1.13, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.68, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 37, time: 299.96s, tr_loss: 0.64, val_loss: 1.12, F1_overall: 0.83, ER_overall: 0.29, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.67, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 38, time: 298.88s, tr_loss: 0.63, val_loss: 1.15, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.39, good_pks_ratio:0.68, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 39, time: 300.03s, tr_loss: 0.63, val_loss: 1.15, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 40, time: 309.44s, tr_loss: 0.61, val_loss: 1.14, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 41, time: 311.19s, tr_loss: 0.61, val_loss: 1.12, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.67, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 33
+epoch_cnt: 42, time: 310.07s, tr_loss: 0.60, val_loss: 1.11, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 42
+epoch_cnt: 43, time: 310.43s, tr_loss: 0.60, val_loss: 1.19, F1_overall: 0.81, ER_overall: 0.34, doa_error_gt: 0.46, doa_error_pred: 0.39, good_pks_ratio:0.68, error_metric: 0.25, best_error_metric: 0.23, best_epoch : 42
+epoch_cnt: 44, time: 310.12s, tr_loss: 0.59, val_loss: 1.15, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.67, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 42
+epoch_cnt: 45, time: 309.97s, tr_loss: 0.59, val_loss: 1.12, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 42
+epoch_cnt: 46, time: 310.70s, tr_loss: 0.58, val_loss: 1.12, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 42
+epoch_cnt: 47, time: 310.51s, tr_loss: 0.61, val_loss: 1.11, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.68, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 42
+epoch_cnt: 48, time: 310.78s, tr_loss: 0.56, val_loss: 1.09, F1_overall: 0.84, ER_overall: 0.28, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 49, time: 310.62s, tr_loss: 0.56, val_loss: 1.13, F1_overall: 0.82, ER_overall: 0.33, doa_error_gt: 0.45, doa_error_pred: 0.39, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 50, time: 310.40s, tr_loss: 0.57, val_loss: 1.13, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.68, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 51, time: 310.43s, tr_loss: 0.56, val_loss: 1.13, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 52, time: 311.15s, tr_loss: 0.55, val_loss: 1.12, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 53, time: 310.86s, tr_loss: 0.61, val_loss: 1.13, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.46, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 54, time: 309.95s, tr_loss: 0.55, val_loss: 1.13, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 55, time: 309.99s, tr_loss: 0.53, val_loss: 1.10, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.45, doa_error_pred: 0.37, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 56, time: 309.37s, tr_loss: 0.54, val_loss: 1.16, F1_overall: 0.81, ER_overall: 0.32, doa_error_gt: 0.47, doa_error_pred: 0.39, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 57, time: 309.40s, tr_loss: 0.54, val_loss: 1.15, F1_overall: 0.81, ER_overall: 0.32, doa_error_gt: 0.46, doa_error_pred: 0.39, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 58, time: 309.79s, tr_loss: 0.54, val_loss: 1.11, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.44, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 59, time: 309.08s, tr_loss: 0.52, val_loss: 1.10, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 60, time: 309.44s, tr_loss: 0.52, val_loss: 1.11, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 61, time: 309.66s, tr_loss: 0.52, val_loss: 1.10, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 62, time: 308.87s, tr_loss: 0.53, val_loss: 1.11, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.44, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.24, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 63, time: 309.76s, tr_loss: 0.52, val_loss: 1.09, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.45, doa_error_pred: 0.37, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 64, time: 309.25s, tr_loss: 0.51, val_loss: 1.11, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.23, best_epoch : 48
+epoch_cnt: 65, time: 308.83s, tr_loss: 0.51, val_loss: 1.07, F1_overall: 0.84, ER_overall: 0.28, doa_error_gt: 0.45, doa_error_pred: 0.37, good_pks_ratio:0.70, error_metric: 0.22, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 66, time: 308.98s, tr_loss: 0.49, val_loss: 1.09, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.45, doa_error_pred: 0.37, good_pks_ratio:0.69, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 67, time: 308.69s, tr_loss: 0.50, val_loss: 1.08, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 68, time: 310.08s, tr_loss: 0.49, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 69, time: 309.62s, tr_loss: 0.53, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.29, doa_error_gt: 0.45, doa_error_pred: 0.37, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 70, time: 308.69s, tr_loss: 0.49, val_loss: 1.08, F1_overall: 0.84, ER_overall: 0.30, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 71, time: 311.16s, tr_loss: 0.49, val_loss: 1.11, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 72, time: 309.54s, tr_loss: 0.48, val_loss: 1.09, F1_overall: 0.84, ER_overall: 0.30, doa_error_gt: 0.45, doa_error_pred: 0.38, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 73, time: 311.03s, tr_loss: 0.48, val_loss: 1.06, F1_overall: 0.84, ER_overall: 0.29, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.22, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 74, time: 312.21s, tr_loss: 0.48, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 75, time: 310.33s, tr_loss: 0.47, val_loss: 1.10, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.45, doa_error_pred: 0.37, good_pks_ratio:0.70, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 76, time: 311.59s, tr_loss: 0.48, val_loss: 1.09, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 77, time: 308.58s, tr_loss: 0.48, val_loss: 1.10, F1_overall: 0.82, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 78, time: 310.30s, tr_loss: 0.47, val_loss: 1.10, F1_overall: 0.82, ER_overall: 0.32, doa_error_gt: 0.44, doa_error_pred: 0.38, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 79, time: 309.57s, tr_loss: 0.46, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.43, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 80, time: 310.70s, tr_loss: 0.52, val_loss: 1.10, F1_overall: 0.82, ER_overall: 0.33, doa_error_gt: 0.44, doa_error_pred: 0.38, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 81, time: 309.02s, tr_loss: 0.47, val_loss: 1.06, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.43, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 82, time: 311.68s, tr_loss: 0.44, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.43, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 83, time: 309.58s, tr_loss: 0.45, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 84, time: 309.96s, tr_loss: 0.47, val_loss: 1.08, F1_overall: 0.83, ER_overall: 0.31, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 85, time: 313.30s, tr_loss: 0.46, val_loss: 1.08, F1_overall: 0.82, ER_overall: 0.33, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.71, error_metric: 0.24, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 86, time: 319.86s, tr_loss: 0.46, val_loss: 1.07, F1_overall: 0.82, ER_overall: 0.33, doa_error_gt: 0.44, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 87, time: 309.42s, tr_loss: 0.43, val_loss: 1.08, F1_overall: 0.82, ER_overall: 0.34, doa_error_gt: 0.42, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 88, time: 309.88s, tr_loss: 0.48, val_loss: 1.05, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.43, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 65
+epoch_cnt: 89, time: 308.57s, tr_loss: 0.43, val_loss: 1.04, F1_overall: 0.84, ER_overall: 0.30, doa_error_gt: 0.43, doa_error_pred: 0.36, good_pks_ratio:0.73, error_metric: 0.22, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 90, time: 309.28s, tr_loss: 0.42, val_loss: 1.04, F1_overall: 0.82, ER_overall: 0.34, doa_error_gt: 0.42, doa_error_pred: 0.36, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 91, time: 309.67s, tr_loss: 0.42, val_loss: 1.08, F1_overall: 0.81, ER_overall: 0.34, doa_error_gt: 0.43, doa_error_pred: 0.37, good_pks_ratio:0.72, error_metric: 0.24, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 92, time: 309.57s, tr_loss: 0.42, val_loss: 1.03, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.43, doa_error_pred: 0.36, good_pks_ratio:0.73, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 93, time: 309.67s, tr_loss: 0.41, val_loss: 1.03, F1_overall: 0.83, ER_overall: 0.33, doa_error_gt: 0.42, doa_error_pred: 0.36, good_pks_ratio:0.74, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 94, time: 309.20s, tr_loss: 0.40, val_loss: 1.05, F1_overall: 0.83, ER_overall: 0.33, doa_error_gt: 0.42, doa_error_pred: 0.37, good_pks_ratio:0.74, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 95, time: 310.72s, tr_loss: 0.41, val_loss: 1.01, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.42, doa_error_pred: 0.36, good_pks_ratio:0.74, error_metric: 0.22, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 96, time: 308.88s, tr_loss: 0.42, val_loss: 1.06, F1_overall: 0.82, ER_overall: 0.33, doa_error_gt: 0.43, doa_error_pred: 0.37, good_pks_ratio:0.73, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 89
+epoch_cnt: 97, time: 309.35s, tr_loss: 0.40, val_loss: 1.05, F1_overall: 0.83, ER_overall: 0.30, doa_error_gt: 0.43, doa_error_pred: 0.36, good_pks_ratio:0.74, error_metric: 0.22, best_error_metric: 0.22, best_epoch : 97
+epoch_cnt: 98, time: 309.23s, tr_loss: 0.41, val_loss: 1.04, F1_overall: 0.83, ER_overall: 0.32, doa_error_gt: 0.43, doa_error_pred: 0.36, good_pks_ratio:0.72, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 97
+epoch_cnt: 99, time: 308.46s, tr_loss: 0.39, val_loss: 1.04, F1_overall: 0.82, ER_overall: 0.34, doa_error_gt: 0.42, doa_error_pred: 0.37, good_pks_ratio:0.73, error_metric: 0.23, best_error_metric: 0.22, best_epoch : 97
+best_conf_mat : [[9.49238740e-01 4.90766346e-02 1.58926925e-03 9.53561552e-05
+  0.00000000e+00 0.00000000e+00]
+ [4.43709900e-02 8.57644181e-01 9.46705186e-02 3.31431002e-03
+  0.00000000e+00 0.00000000e+00]
+ [4.93610486e-03 2.13905713e-01 6.95771403e-01 8.17748039e-02
+  3.58063480e-03 3.13403483e-05]
+ [6.16423671e-04 8.66477273e-02 5.50680746e-01 3.36326115e-01
+  2.57289880e-02 0.00000000e+00]
+ [0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+  0.00000000e+00 0.00000000e+00]
+ [0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+  0.00000000e+00 0.00000000e+00]]
+best_conf_mat_diag : [0.94923874 0.85764418 0.6957714  0.33632611 0.         0.        ]
+saved model for the best_epoch: 97 with best_metric: 0.21834398269320693,  
+DOA Metrics: doa_loss_gt: 0.4260716132102877, doa_loss_pred: 0.3612499309456357, good_pks_ratio: 0.7372561827400662
+SED Metrics: ER_overall: 0.8299293758350829, F1_overall: 0.3038912909203212
+unique_name: models/mansim_ov3_split1_regr0_3d0_1 
