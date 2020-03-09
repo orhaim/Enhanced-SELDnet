@@ -10,7 +10,7 @@ Refer to the original paper Git for further inormation and to download any relea
 # Enhanced-SELDnet
 A project of reproduction and enhancement of a DNN architecture, from the course Deep Learning by Dr. Raja Giryes, TAU
 
-This project was conducted by Or Haim and Aviv Shalem from Tel-Aviv university, and includes the enhancment of the SELDnet architecture for detection and localization of sound events.
+This project was conducted by Electrical Engineering M.Sc. students from Tel-Aviv university, and includes the enhancment of the SELDnet architecture for detection and localization of sound events.
 
 This enhancement was done using a Self-Attention mechanism, as well as a exploiting the Transfer-Learning concept. Furthermore, datasets from the original paper were simply shuffeled to allow a better generelization for further predictions on any unseen data. 
 
